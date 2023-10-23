@@ -4,39 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357c6f53-fcfb-4dec-b0d6-9028a2e46fca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bddTest/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="357c6f53-fcfb-4dec-b0d6-9028a2e46fca" name="Changes" comment="This is second commit in feature development branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2X0piXvUNvoe12MyCCgo7z6ja2C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo.DESKTOP-I0HH4JP/IdeaProjects/TestAliExpressApplication/src/main/java/org/bddTest/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;featureDevelopment&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo.DESKTOP-I0HH4JP/IdeaProjects/TestAliExpressApplication/src/test/resources/Drivers&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo.DESKTOP-I0HH4JP/IdeaProjects/TestAliExpressApplication/src/main/java/org/bddTest/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo.DESKTOP-I0HH4JP\IdeaProjects\TestAliExpressApplication\src\test\resources\Drivers" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +53,65 @@
       <option name="presentableId" value="Default" />
       <updated>1697775985503</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is first commit, only create project and added required dependencies to pom.xml">
+      <option name="closed" value="true" />
+      <created>1697776522583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697776522583</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is first commit, only create project and added required dependencies to pom.xml">
+      <option name="closed" value="true" />
+      <created>1697776689984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697776689984</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is first commit in feature development branch">
+      <option name="closed" value="true" />
+      <created>1698031832943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698031832943</updated>
+    </task>
+    <task id="LOCAL-00004" summary="This is first commit in feature development branch">
+      <option name="closed" value="true" />
+      <created>1698032000026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698032000026</updated>
+    </task>
+    <task id="LOCAL-00005" summary="This is second commit in feature development branch">
+      <option name="closed" value="true" />
+      <created>1698035536116</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698035536116</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is first commit, only create project and added required dependencies to pom.xml" />
+    <MESSAGE value="This is first commit in feature development branch" />
+    <MESSAGE value="This is second commit in feature development branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is second commit in feature development branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
